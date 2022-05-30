@@ -1,0 +1,8 @@
+﻿  Main.cpp
+D:\work space\c++ work space\Project - A Bank Simulator using Queues 4\Project - A Bank Simulator using Queues 4\Main.cpp(29,17): warning C4566: character represented by universal-character-name '\uFF3C' cannot be represented in the current code page (1252)
+D:\work space\c++ work space\Project - A Bank Simulator using Queues 4\Project - A Bank Simulator using Queues 4\Main.cpp(29,17): warning C4566: character represented by universal-character-name '\uFF08' cannot be represented in the current code page (1252)
+D:\work space\c++ work space\Project - A Bank Simulator using Queues 4\Project - A Bank Simulator using Queues 4\Main.cpp(29,17): warning C4566: character represented by universal-character-name '\u3007' cannot be represented in the current code page (1252)
+D:\work space\c++ work space\Project - A Bank Simulator using Queues 4\Project - A Bank Simulator using Queues 4\Main.cpp(29,17): warning C4566: character represented by universal-character-name '\uFF4F' cannot be represented in the current code page (1252)
+D:\work space\c++ work space\Project - A Bank Simulator using Queues 4\Project - A Bank Simulator using Queues 4\Main.cpp(29,17): warning C4566: character represented by universal-character-name '\uFF09' cannot be represented in the current code page (1252)
+D:\work space\c++ work space\Project - A Bank Simulator using Queues 4\Project - A Bank Simulator using Queues 4\Main.cpp(29,17): warning C4566: character represented by universal-character-name '\uFF0F' cannot be represented in the current code page (1252)
+  Project - A Bank Simulator using Queues 4.vcxproj -> D:\work space\c++ work space\Project - A Bank Simulator using Queues 4\x64\Debug\Project - A Bank Simulator using Queues 4.exe
